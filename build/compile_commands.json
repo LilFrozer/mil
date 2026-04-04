@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/alekseypodoplelov/Documents/dspTest/build",
+  "command": "/usr/bin/c++  -I/Users/alekseypodoplelov/Documents/dspTest/include -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/dspTest.dir/src/main.cpp.o -c /Users/alekseypodoplelov/Documents/dspTest/src/main.cpp",
+  "file": "/Users/alekseypodoplelov/Documents/dspTest/src/main.cpp",
+  "output": "CMakeFiles/dspTest.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/alekseypodoplelov/Documents/dspTest/build",
+  "command": "/usr/bin/c++  -I/Users/alekseypodoplelov/Documents/dspTest/include -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/dspTest.dir/src/CssWork.cpp.o -c /Users/alekseypodoplelov/Documents/dspTest/src/CssWork.cpp",
+  "file": "/Users/alekseypodoplelov/Documents/dspTest/src/CssWork.cpp",
+  "output": "CMakeFiles/dspTest.dir/src/CssWork.cpp.o"
+}
+]
