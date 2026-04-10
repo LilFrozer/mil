@@ -2,6 +2,8 @@
 
 int main()
 {
-    CssWork::testCrc("A590006C0000000000000400000038f6");
+    // - res = 38f6
+    CssWork::testCrc("A590006C00000000000004000000");
+    CssWork::testCrc("A50000400002a000000000000000");
     return 0;
 }

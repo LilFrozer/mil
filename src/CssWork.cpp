@@ -14,6 +14,7 @@ int CssWork::CalcCrc(std::vector<uint8_t> &bytes, ModeCalcCrc mode)
     {
     /**
     *   Ваня использует полином = 0x1021
+    *   для вычисления CRC16
     */
     case ModeCalcCrc::Sav:
     {
