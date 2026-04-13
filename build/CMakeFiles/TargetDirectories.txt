@@ -1,3 +1,0 @@
-/Users/alekseypodoplelov/Documents/dspTest/build/CMakeFiles/dspTest.dir
-/Users/alekseypodoplelov/Documents/dspTest/build/CMakeFiles/edit_cache.dir
-/Users/alekseypodoplelov/Documents/dspTest/build/CMakeFiles/rebuild_cache.dir
