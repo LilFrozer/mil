@@ -1,7 +1,7 @@
 #ifndef CSSWORK_H
 #define CSSWORK_H
 
-#define PROJECT_PATH "/Users/alekseypodoplelov/Documents/dspTest/"
+#define PROJECT_PATH "/Users/alekseypodoplelov/Documents/mil/"
 
 #include <cstdint>
 #include <__stddef_size_t.h>

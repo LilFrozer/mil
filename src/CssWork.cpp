@@ -53,6 +53,7 @@ int CssWork::CalcCrc(std::vector<uint8_t> &bytes, ModeCalcCrc mode)
         fsz.close();
 
         if (tbl.size() < 256) {
+            std::cout << "Размер таблицы:" << tbl.size() << std::endl;
             throw std::runtime_error("Ошибка: таблица CRC слишком мала!");
         }
 
